@@ -1,4 +1,4 @@
-# Agent for Debate Project
+# Agent for Debate GPT-5.2
 
 This project runs a configurable **multi-agent AI debate** by reading one file: `OBJECTIVE.md`.
 
